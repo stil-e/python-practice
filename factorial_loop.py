@@ -1,4 +1,5 @@
- #Function to compute factorial using a loop
+#factorial_loop.py
+#Function to compute factorial using a loop
 
 def factorial(n):
     
